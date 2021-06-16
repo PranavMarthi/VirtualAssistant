@@ -1,2 +1,2 @@
-EMAIL_ADDRESS = "randomprogrammer618@gmail.com"
-PASSWORD = "qazwsxedcrfv12345!@#$%A"
+EMAIL_ADDRESS = "user_sender_email goes here"
+PASSWORD = "user_sender_password goes here"
